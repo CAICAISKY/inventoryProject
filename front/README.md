@@ -1,4 +1,4 @@
-# frontground
+# front
 
 > A Vue.js project
 
