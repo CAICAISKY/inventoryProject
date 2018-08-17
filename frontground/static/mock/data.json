@@ -2,10 +2,17 @@
   "msg": true,
   "data": {
     "title": "标题",
-    "gider": [
-      "导航一",
-      "导航二",
-      "导航三"
+    "giders": [
+      {
+        "name": "导航一",
+        "path": "one"
+      }, {
+        "name": "导航二",
+        "path": "two"
+      }, {
+        "name": "导航三",
+        "path": "three"
+      }
     ]
   }
 }
