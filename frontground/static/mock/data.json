@@ -5,13 +5,16 @@
     "giders": [
       {
         "name": "导航一",
-        "path": "one"
+        "path": "one",
+        "id": "1"
       }, {
         "name": "导航二",
-        "path": "two"
+        "path": "two",
+        "id": "2"
       }, {
         "name": "导航三",
-        "path": "three"
+        "path": "three",
+        "id": "3"
       }
     ]
   }
